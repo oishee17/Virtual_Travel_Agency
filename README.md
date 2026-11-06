@@ -72,8 +72,8 @@ Some map and place-discovery functions rely on external map or geographic servic
 Always verify emergency numbers and local contact details before relying on them while travelling.
 
 ### 6. Multilingual Support and Translator
-- Includes a language selector and translated interface text.
-- Provides translation-related functionality for travellers.
+- Includes a language selector and translated interface text for all Indian languages as well as foreign languages.
+- Provides translation-related functionality for travellers (both Indians and foreigners).
 - Includes language data in `translations.js`.
 - Includes a tourist phrasebook in `phrasebook.js`, containing common phrases in multiple Indian languages.
 - Supports useful phrase categories such as greetings, directions, help, safety, emergencies, accommodation, and food.
