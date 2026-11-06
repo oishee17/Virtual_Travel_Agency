@@ -271,7 +271,7 @@ Possible future improvements include:
 
 **Project Name:** Virtual Travel Agency  
 **Application Name:** Bharat Suraksha – Tourist Safety Portal  
-**Project Context:** Smart India Hackathon (SIH) 2026
+**Project Context:** Smart India Hackathon (SIH) 2026 <br>
 **Author:** Oishee Biswas
 
 ---
